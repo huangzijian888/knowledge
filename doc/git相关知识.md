@@ -21,6 +21,9 @@
 	git push origin 分支名
 	远程仓库默认为 origin
 
-5.编辑README.md
-	
-	详情见前辈[博客](http://blog.csdn.net/u011068702/article/details/49741077)
+5.README.md编辑
+
+	1.文字添加超链接
+	[文字](链接)
+	2.添加图片
+	![](图片地址)
