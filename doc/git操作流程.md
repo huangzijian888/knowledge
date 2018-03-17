@@ -27,7 +27,7 @@
     需注意图4.2中蓝色框圈记部分 需下拉改为dev分支 
 
 > 图4.1 
-![](/image/pull-requse.png)
+![](/image/pull-requset.png)
 
 > 图4.2
 ![](/image/review.png)
