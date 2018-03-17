@@ -21,3 +21,6 @@
 	git push origin 分支名
 	远程仓库默认为 origin
 
+5.编辑README.md
+	
+	详情见前辈[博客](http://blog.csdn.net/u011068702/article/details/49741077)
