@@ -23,4 +23,4 @@
  
  9. [数据科学入门篇3：数据处理利器Pandas使用手册](https://zhuanlan.zhihu.com/p/25184830)
  
- 10. [Machine-Learning](https://www.kaggle.com/learn/machine-learning)教程
+ 10. [Machine-Learning教程](https://www.kaggle.com/learn/machine-learning)
