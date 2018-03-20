@@ -9,4 +9,6 @@
 
  2. [git操作流程](doc/git操作流程.md)
  
- 3. [README语法](https://github.com/huangzijian888/README )
+ 3. [README语法](https://github.com/huangzijian888/README)
+ 
+ 4. [Gain博客](https://wmpscc.github.io/)
