@@ -21,4 +21,4 @@
  
  8. [图像分类与KNN](http://blog.csdn.net/han_xiaoyang/article/details/49949535)
  
- 9.[数据科学入门篇3：数据处理利器Pandas使用手册](https://zhuanlan.zhihu.com/p/25184830)
+ 9. [数据科学入门篇3：数据处理利器Pandas使用手册](https://zhuanlan.zhihu.com/p/25184830)
