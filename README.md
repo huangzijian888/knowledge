@@ -5,6 +5,8 @@
 > 子曰：温故而知新，可以为师矣。
 
 ### 目录
+ * [莫烦Python](https://morvanzhou.github.io/)
+ 
  * [git相关知识复习](doc/git相关知识.md)
 
  * [git操作流程](doc/git操作流程.md)
