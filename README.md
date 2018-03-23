@@ -5,24 +5,24 @@
 > 子曰：温故而知新，可以为师矣。
 
 ### 目录
- 1. [git相关知识复习](doc/git相关知识.md)
+ * [git相关知识复习](doc/git相关知识.md)
 
- 2. [git操作流程](doc/git操作流程.md)
+ * [git操作流程](doc/git操作流程.md)
  
- 3. [README语法](https://github.com/huangzijian888/README)
+ * [README语法](https://github.com/huangzijian888/README)
  
- 4. [Gain博客](https://wmpscc.github.io/)
+ * [Gain博客](https://wmpscc.github.io/)
  
- 5. [数学乐](http://www.shuxuele.com/)
+ * [数学乐](http://www.shuxuele.com/)
  
- 6. [深度学习网站](http://zh.gluon.ai/)
+ * [深度学习网站](http://zh.gluon.ai/)
  
- 7. [k-近邻算法](http://blog.csdn.net/xuelabizp/article/details/50931493)
+ * [k-近邻算法](http://blog.csdn.net/xuelabizp/article/details/50931493)
  
- 8. [图像分类与KNN](http://blog.csdn.net/han_xiaoyang/article/details/49949535)
+ * [图像分类与KNN](http://blog.csdn.net/han_xiaoyang/article/details/49949535)
  
- 9. [数据科学入门篇3：数据处理利器Pandas使用手册](https://zhuanlan.zhihu.com/p/25184830)
+ * [数据科学入门篇3：数据处理利器Pandas使用手册](https://zhuanlan.zhihu.com/p/25184830)
  
- 10. [Machine-Learning教程](https://www.kaggle.com/learn/machine-learning)
+ * [Machine-Learning教程](https://www.kaggle.com/learn/machine-learning)
 
- 11. [如何理解Pandas和Numpy里的axis](http://frankchen.xyz/2017/12/12/Understanding-the-axis-parameter-in-Pandas-and-Numpy/)
+ * [如何理解Pandas和Numpy里的axis](http://frankchen.xyz/2017/12/12/Understanding-the-axis-parameter-in-Pandas-and-Numpy/)
