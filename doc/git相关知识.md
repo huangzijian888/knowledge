@@ -21,3 +21,7 @@
 	git push origin 分支名
 	远程仓库默认为 origin
 
+5.从GitHub下载单个文件
+
+	 点击raw查看文件地址并复制
+	 在终端键入 curl -O 地址
