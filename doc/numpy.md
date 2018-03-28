@@ -2,11 +2,6 @@
 # numpy部分函数介绍
 > 本文记录了我在使用numpy过程中用到的函数
 
-
-```python
-from numpy import *
-```
-
 ## shape
 shape函数的功能是查看矩阵或者数组的维数
 ***
@@ -15,35 +10,14 @@ shape函数的功能是查看矩阵或者数组的维数
 
 
 ```python
-a=eye(3)
-```
-
-
-```python
-a
-```
-
-
-
-
+>>> a=eye(3)
+>>> a
     array([[1., 0., 0.],
            [0., 1., 0.],
            [0., 0., 1.]])
-
-
-
-
-```python
-a.shape
-```
-
-
-
-
+>>> a.shape
     (3, 3)
-
-
-
+```
 建立一个4x3的矩阵b,shape[0]=4 shape[1]=3 
 
 
