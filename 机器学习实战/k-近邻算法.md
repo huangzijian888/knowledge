@@ -20,7 +20,7 @@
     * 测试算法：计算错误率
     * 使用算法：首先需要输入样本数据和结构化的输出结果，然后运行k-近邻算法判定输入数据分别属于哪个分类，最后应用对计算出的分类执行后续的处理
 
-> k近邻算法的伪代码及[python](https://github.com/huangzijian888/knowledge/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/src)实现
+> k近邻算法的伪代码及[python](https://github.com/huangzijian888/knowledge/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/src/kNN.py)实现
  >> 对未知类别属性的数据集中的每个点依次执行以下操作:
    >>>1.计算已知类别数据集中的每个点与当前点之间的距离
    </br>2.按照距离递增次序排序
