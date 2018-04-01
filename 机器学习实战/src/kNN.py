@@ -14,6 +14,7 @@ def classify0(inX,dataSet,labels,k):#创建分类器
     labels:标签
     k:选择最近邻居的数目
     '''
+    #20-23行代码实现距离计算 
     dataSetSize = dataSet.shape[0]#.shape[]查看数组或矩阵的纬度
     #tile 
     diffMat = tile(inX,(dataSetSize,1))-dataSet
@@ -22,10 +23,12 @@ def classify0(inX,dataSet,labels,k):#创建分类器
     distances = sqDistances**0.5
     sortedDistIndicies = distances.argsort()
     classCount = {}
+    #27-29行 选择距离最小的k个点
     for i in range(k):
         voteIlabel = labels[sortedDistIndicies[i]]
         classCount[voteIlabel] = classCount.get(voteIlabel,0)+1
     sortedClassCount = sorted(classCount.iteritems(),
+     #32行 排序
      key=operator.itemgetter(1),reverse=True)
     return sortedClassCount[0][0]
 
