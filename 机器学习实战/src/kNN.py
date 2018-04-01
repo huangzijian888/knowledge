@@ -41,11 +41,11 @@ def test1():#第一个例子测试
 def file2matrix(filename):
         fr = open(filename)
         arrayOLines = fr.readlines()
-        numberOfLines = len(arrayOLines)
-        returnMat = zeros((numberOfLines,3))
+        numberOfLines = len(arrayOLines)#得到文件行数
+        returnMat = zeros((numberOfLines,3))#创建返回的Numpy矩阵
         classLabelVector = []
         index = 0
-        for line in arrayOLines:
+        for line in arrayOLines:#解析文件数据到列表
             line  = line.strip()
             listFromLine = line.split('\t')
             returnMat[index,:] = listFromLine[0:3]
