@@ -5,27 +5,19 @@
 > 子曰：温故而知新，可以为师矣。
 
 ### 目录
- * [莫烦Python](https://morvanzhou.github.io/)
+ * [Python系列](doc/python-links.md)
  
- * [git相关知识复习](doc/git相关知识.md)
-
- * [git操作流程](doc/git操作流程.md)
+ * [git系列](doc/git-links.md)
  
- * [README语法](https://github.com/huangzijian888/README)
+ * [技术博客](doc/blog-links.md)
  
- * [Gain博客](https://wmpscc.github.io/)
+ * [学习网站](doc/website-links.md)
  
- * [数学乐](http://www.shuxuele.com/)
+ * [算法](/alogrithm-links.md)
  
- * [深度学习网站](http://zh.gluon.ai/)
+ * [教程](doc/tutorial-links.md)
  
- * [k-近邻算法](http://blog.csdn.net/xuelabizp/article/details/50931493)
- 
- * [图像分类与KNN](http://blog.csdn.net/han_xiaoyang/article/details/49949535)
- 
- * [数据科学入门篇3：数据处理利器Pandas使用手册](https://zhuanlan.zhihu.com/p/25184830)
- 
- * [Machine-Learning教程](https://www.kaggle.com/learn/machine-learning)
+ * [笔记](doc/notes-links.md)
 
  * [如何理解Pandas和Numpy里的axis](http://frankchen.xyz/2017/12/12/Understanding-the-axis-parameter-in-Pandas-and-Numpy/)
 
