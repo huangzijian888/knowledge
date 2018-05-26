@@ -1,0 +1,30 @@
+<!DOCTYPE <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>基本数据类型练习--我叫极客</title><!--这里设置标签页显示的东西-->
+</head>
+<body>
+    <script type="text/javascript">
+        person = new Object(); //定义对象person
+        person.name = '极客';  //定义并初始化name属性
+        person.age = 20;//定义并初始化age属性
+        person.height = 1.80;//定义并初始化height属性
+        person.motto = String('“让学习更有效!”');//定义并初始化motto属性
+        alert(typeof person.name);//输出name的数据类型
+        alert(typeof person.age);//输出age的数据类型
+        alert(typeof person.height);//输出height的数据类型
+        alert(typeof person.motto);//输出motto的数据类型
+    //19-22行代码实现的功能是输出一个拼接成的字符串
+        alert('大家好，我叫'+person.name+',今年'
+        +person.age+'岁，身高'
+        +Number (person.height).toFixed(2)//注意需用Number的toFixed方法保证输出两位小数
+        +'m。\n'+'我的座右铭是：'+person.motto)
+       //24-26定义字符串变量str并将所要求输出的话赋值给它
+        var str='大家好，我叫'+person.name+',今年'
+        +person.age+'岁，身高'+person.height+'m。\n'
+        +'我的座右铭是：'+person.motto;
+        alert(str.length);//输出str的长度
+    </script>
+</body>
+</html>
