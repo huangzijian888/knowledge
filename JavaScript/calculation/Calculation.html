@@ -1,15 +1,17 @@
-<!DOCTYPE <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="utf-8" />
     <title>简易计算器</title>
-    <script type="text/javascript" src="Calculation-v1.js">      
+    <script type="text/javascript" src="Calculation-v1.js">  
     </script>
+    <link rel="stylesheet" type="text/css" href="Calculation.css">
 </head>
 
 <body>
-    X
+    <h1 id="text">简易计算器</h1>
+    <span>X</span>
     <input type="number" id="x-value" />
     <select id="yunsuanfu">
         <option>+</option>
@@ -17,10 +19,10 @@
         <option>*</option>
         <option>/</option>
     </select>
-    Y
+    <span>Y</span>
     <input type="number" id="y-value" /> =
     <input type="number" id="jieguo" />
-    <button onclick="calculation()">计算</button>
+    <button onclick="calculation()">计算</button>   
 </body>
 
 </html>

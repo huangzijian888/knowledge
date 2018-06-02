@@ -1,0 +1,16 @@
+h1{
+    text-align: center; 
+    font-size: 60px;
+    color: indianred;
+}
+span{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+html{
+    background-color: rgb(38, 180, 199);
+}
+input{
+    
+    background-color: rgba(245, 245, 245, 0.966);
+}
