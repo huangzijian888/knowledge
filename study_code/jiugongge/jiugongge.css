@@ -1,0 +1,22 @@
+.square_01,
+.square_02,
+.square_03 {
+  width: 30%;
+  height: 30%;
+  margin: 1%;
+  background-color: rgb(255, 162, 0);
+  border-radius: 10%;
+  float: left;
+}
+.square_00 {
+  width: 100vmin;
+  height: 100vmin;
+  margin: auto;
+  background-color: rgb(253, 253, 253);
+}
+.column_01 {
+  margin-left: 3%;
+}
+.square_01 {
+  margin-top: 3%;
+}
