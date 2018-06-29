@@ -1,4 +1,3 @@
 ### 目录
- 
- * [莫烦Python](https://morvanzhou.github.io/)
- 
+
+- [莫烦 Python](https://morvanzhou.github.io/)
